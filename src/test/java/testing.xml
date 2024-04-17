@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MyTestSuite">
+    <test name="MyTest">
+        <classes>
+            <class name="org.pooja.testingbase.TestDatePicker"/>
+            <class name="org.pooja.testingbase.TestTakeScreen"/>
+        </classes>
+    </test>
+</suite>
